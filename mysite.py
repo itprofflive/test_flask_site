@@ -32,7 +32,7 @@ def index():
     #tags = set()
     #tags.add(p.meta.get('tag') for p in flatpages)
     return render_template('index.html', posts=posts, cards=cards, bigheader=True, **settings, tags=tags)
-
+index()
 @app.route('/posts/<name>/')
 def post(name):
 	path = '{}/{}'.format(POST_DIR, name)

@@ -1,6 +1,7 @@
 title: TransparentPay
 description: Платежная система для прозрачного финансирования благотворительных проектов
-category: FinTech icon:bx bx-rocket
+category: FinTech 
+icon: bx bx-rocket
 info: Платежная система
 link: http://fintech.com
 
