@@ -19,7 +19,7 @@ link: http://example.com
 	if __name__ == "__main__":
 	    app.run()
 
-Это приложение 'Hello World', созданное с помощью фреймворка Flask. Чтобы запустить main.py, нужно выполнить следующую команду:
+Это приложение "Hello World", созданное с помощью фреймворка Flask. Чтобы запустить main.py, нужно выполнить следующую команду:
 
 	(env) python main.py
 	Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
